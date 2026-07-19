@@ -1,0 +1,15 @@
+{
+    "name": "@instant-ar/apexflow-embed",
+    "version": "1.0.1",
+    "description": "Vanilla JS embed chatbot library for ApexFlow",
+    "main": "web.js",
+    "scripts": {
+        "build": "node build.js"
+    },
+    "keywords": [
+        "chatbot",
+        "embed",
+        "apexflow"
+    ],
+    "license": "MIT"
+}
