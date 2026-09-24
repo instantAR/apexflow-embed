@@ -11,8 +11,5 @@
         "embed",
         "apexflow"
     ],
-    "license": "Apache-2.0",
-    "dependencies": {
-        "@apexflow/embed-eml": "workspace:*"
-    }
+    "license": "MIT"
 }
