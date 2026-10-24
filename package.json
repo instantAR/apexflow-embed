@@ -1,6 +1,6 @@
 {
     "name": "@instant-ar/apexflow-embed",
-    "version": "1.0.1",
+    "version": "1.0.5",
     "description": "Vanilla JS embed chatbot library for ApexFlow",
     "main": "web.js",
     "scripts": {
@@ -11,5 +11,12 @@
         "embed",
         "apexflow"
     ],
-    "license": "MIT"
+    "license": "Apache-2.0",
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org/"
+    },
+    "dependencies": {
+        "@apexflow/embed-eml": "workspace:*"
+    }
 }
